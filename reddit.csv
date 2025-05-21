@@ -4,6 +4,19 @@ GalaxyA15,Lmao
 GalaxyA15,Real
 GalaxyA15,Does Samsung Swap Kernels?
 GalaxyA15,"It's rare but can happen, more so on devices with the 6-7 years of OS updates as the kernels are not supported for that long"
+GalaxyA15,:( a15 has 4 years of updates will probably never see 1 new kernel :(
+GalaxyA15,"Likely not, but it shouldn't make much difference to the devices performance"
+GalaxyA15,https://source.android.com/docs/core/architecture/kernel/android-common
+GalaxyA15,:( the 13-8 kernel (Android13-8) is very bad and the performance is horrible on it
+GalaxyA15,"My spare S23 uses that kernel on OneUI7 and it seems fine, I think my old Galaxy A14 may get a kernel update as it's due OneUI7 but is using a now unsupported 4.19 kernel"
+GalaxyA15,Your kernel is 5.15.148-android13-8-29832239?????  my a15 uses this kernel
+GalaxyA15,https://preview.redd.it/tcxd2jgxwr1f1.jpeg?width=4080&format=pjpg&auto=webp&s=590bc47f4f42592aa49588b9f2d2ee9307c8ae00
+GalaxyA15,"I think that with the numbering, the last 3 digits changes when security updates are back ported to the kernel"
+GalaxyA15,"This kernel is just a version ahead of the kernel on my Galaxy A15, right?"
+GalaxyA15,"It's the same, just with some newer security patches as far as my understanding goes"
+GalaxyA15,Hmmmm which Samsung device has already received 1 kernel swap?
+GalaxyA15,"That I can't say, my S23 Ultra never has and it's on the 2nd OS update, I'm currently using a Pixel 9 as my main device, older pixels all recently got an update to the 6.1 kernel, I had an A15 but I gave the device to my mum as her phone was a junk Nokia. I can always update you when my A14 gets it's OneUI7 update"
+GalaxyA15,Ok :)
 GalaxyA15,Anyone who has used a foreign ROM on the Galaxy A15 5G
 GalaxyA15,YouTube premium and others
 GalaxyA15,The phone dose not have enough ram so it's putting the other apps to sleep so it can run as quickly as possible
@@ -13,14 +26,23 @@ GalaxyA15,my solution is keep it in a holster case
 GalaxyA15,"Support had me disable double-tap and lift options. Also showed me Settings-General Management-Network Reset of which I wasn’t aware despite going through what I thought were all menus and watching videos.
 
 UPDATE: Screen shots still made and stored, and apps launched but Data Saver blocks activity. Now burning through data."
+GalaxyA15,https://www.reddit.com/r/samsunggalaxy/s/ZeDvMt0NPm
+GalaxyA15,"[https://www.reddit.com/r/samsunggalaxy/s/ZeDvMt0NPm](https://www.reddit.com/r/samsunggalaxy/s/ZeDvMt0NPm)  
+Thanks. As I wrote, Support disabled those options and I will test them this afternoon."
 GalaxyA15,"Hello all, can somebody explain why this media picker keeps running in the background? This started happening after recent security update which I did in March-25. This is A15 5G 8GB/128GB version running on OneUI 6.1 from India"
 GalaxyA15,"My a15 also has battery drain issues. Used up 7% charge within 20 mins as we speak. OneUI 6.1 made things worse for my battery life. 
 
 Regarding the media picker thingy, even my phone shows it with a less than 1m screen time. Maybe it is a common thing? Sorry if irrelevant."
+GalaxyA15,Can you recall when this media picker thing started appearing? I clearly remember that it started appearing after software updates.
+GalaxyA15,No I cannot unfortunately:(
 GalaxyA15,Problem with a15 5g
 GalaxyA15,return to stock.
 GalaxyA15,Do you remember your CSC? For example EUX/OXM?
 GalaxyA15,"on ur box it should tell u the csc, go to samfw and search up the model number n then select the right csc and just install via odin3 it should get everything back to normal"
+GalaxyA15,how do i download it?
+GalaxyA15,sadly no
+GalaxyA15,"thanks, will try"
+GalaxyA15,probably a recovery image on the samsung website
 GalaxyA15,Galaxy A15
 GalaxyA15,"i would not get the 4gb version.
 
@@ -28,16 +50,39 @@ i would opt for a A30 series at the very least."
 GalaxyA15,Get at least a 6 GB variant. 4 gigs wont be enough.
 GalaxyA15,"May I ask of those not liking the A15, what apps are you using that make you dislike the phone?"
 GalaxyA15,"Sorry, late to the party. I'd say if you haven't bought the phone yet, do yourself a favor and get another phone. This phone is not worth your money."
+GalaxyA15,"i own the A15 5G 4gb and its not that good of an experience. 
+
+ive heard the 6gb versions are better."
+GalaxyA15,I'm thinking about getting that anyways
+GalaxyA15,I'm thinking of getting that but I'm not sure about phones performance
+GalaxyA15,"it lags and runs slow annoyingly often, doing things like unlocking phone often takes 5-10 seconds, opening the camera often takes 10 seconds etc
+
+the issue is OneUI doesnt run nicely on this low spec of a phone"
+GalaxyA15,how long have you had the A15 for?
+GalaxyA15,late july 2024
+GalaxyA15,"i have a device called the T-Mobile REVVL 6x and I asked my dad for something new but he recommended me a Samsung, and my mom just got a a15 and I really like it and I kinda wanna get one but idk if it's good or not in the long term"
+GalaxyA15,"get a better samsung, like a A30 or A50 series
+
+budget phones are all shit. great when ur short on cash but performance wise and user satisfaction they are lacking."
+GalaxyA15,well I don't know really
 GalaxyA15,One UI 7 for SM-A155F
 GalaxyA15,"first off, is it dangerous, and second, is this illegal?"
 GalaxyA15,Nobody leaks M's. That's what's out 🥲
 GalaxyA15,"Just wait for June stable release, it's not that deep"
 GalaxyA15,"will i be able to directly get updates through OTA afterwards, or will i have to sideload them manually in the future?"
 GalaxyA15,Does it need to flash EUX BYC2 for the SD Card method?
+GalaxyA15,"Can make Ur phone unusable(rarely)
+Not illegal"
+GalaxyA15,"You will get OTA in future, this is just an ordinary update"
+GalaxyA15,"Would my phone's csc affect the update file?
+
+And It won't wipe data, right?"
 GalaxyA15,JUST UPDATED ALREADY
 GalaxyA15,"Mine said April on security patch, was just updated today."
 GalaxyA15,check my post
 GalaxyA15,You have the march security patch 😭😭 I am stuck at February
+GalaxyA15,I will think about doing but I prefer not to brick my phone cos I'm probably gona screw it up
+GalaxyA15,Damn I thought I was the unlucky one sorry bro
 GalaxyA15,Galaxy A15 any good?
 GalaxyA15,"For day to day tasks, it's absolutely fine. I have 8/128 (Region: BD) version and it can handle what I need it to do. And for game, any Supercell game if you're into strategy games. I play Chess so that can be an option."
 GalaxyA15,The beach buggy racing and beach buggy racing 2
@@ -58,11 +103,18 @@ GalaxyA15,"same phone, same issue. got mine in august 2024.
 
 i reset it last week and it's running a lot better."
 GalaxyA15,Every phone I've had before this one.
+GalaxyA15,"I have lots of free time so I use my phone a lot. I play lots of video games, and I use GeForce Now to play Fortnite on mobile quite often, which sometimes heats up my phone. The lags often occur when I try to switch between apps and often times, my phone delays."
+GalaxyA15,For heavy apps and multitasking you need the A56. Doubles your price. [Check for instance Coolblue](https://www.coolblue.nl/en/mobile-phones/smartphones/samsung/samsung-galaxy-a)
 GalaxyA15,Reset my A15 and it runs much better.
 GalaxyA15,did you back up anything?
+GalaxyA15,yes but i didn't restore anything.
+GalaxyA15,i resetted mine last night backed up and restored and it fixed the lag whenever i open bluetooth or wifi
+GalaxyA15,mine still will lag a bit if i have a lot of apps open
 GalaxyA15,Just got a a15 for a camra for youtube
 GalaxyA15,The camera on an a15 is okay ik this cause I have one just keep them clean and the videos and pictures should be good.
 GalaxyA15,I have the same color!
+GalaxyA15,It's 1080p 30 FPS
+GalaxyA15,It is a cool colour huh
 GalaxyA15,One UI 7 Release Date for A15
 GalaxyA15,"I was under the impression the A15 or A16 would get it in 2026 lol. Interesting  
 international varients will get the update probably a month or two earlier than US, ect."
@@ -73,6 +125,9 @@ What's up with no updates on all the US carrier's A15 5G models (SM-A156U/SM-S15
 
 SM-A156U1 already have updates to March, 25 patch level."
 GalaxyA15,"Will a A15 originally on Straight Talk, but migrated to SafeLink (still a Tracfone brand) still receive the update? I assume since it received a software update today with April security patches that it will. But Ui 6 to 7 is a major update."
+GalaxyA15,"Samsung said that the a15 gets updates once or twice each quarter,because the phone is a budget one"
+GalaxyA15,A156U1 (unlocked model) already has the updates. It makes no sense for the carrier to NOT adapt/release their own updates with the same patches.  Samsung already delivered the updates.
+GalaxyA15,"Yeah it doesn't make sense,idk what's going on"
 GalaxyA15,trying to transfer vids from A15 to macbook with USB C
 GalaxyA15,WARNING: Do NOT waste your money on the A15
 GalaxyA15,"Interesting. I don't have any problems, what configuration  do you have and is there specific usage or apps when this occurs?"
@@ -81,15 +136,44 @@ GalaxyA15,"I've had no issues with mine.  I run lots of apps, including the pigs
 There are a lot of phones going by the label ""Samsung A15"".  I have the SM-A155M/DSN, 6G RAM, LTE only and the MediaTek SOC.  I restart every 2 weeks or so, when the touch screen seems to get glitchy."
 GalaxyA15,Is yours the Exynos chip version or Mediatek?
 GalaxyA15,And I thought the system UI failure was just me 😅
-GalaxyA15,Yeah this phone is the cheapest phone you can get pretty much. I think this biggest problem with the phone is the lack of ram. It only has 4gb and in 2024/2025 that’s just not enough. Almost all budget phones have this problem. It worked as a backup phone but it was slow and sluggish at times. 
+GalaxyA15,Yeah this phone is the cheapest phone you can get pretty much. I think this biggest problem with the phone is the lack of ram. It only has 4gb and in 2024/2025 that’s just not enough. Almost all budget phones have this problem. It worked as a backup phone but it was slow and sluggish at times.
 GalaxyA15,Try resetting and remove unnecessary apps. Mine is the lowest configuration (4gb/128gb 4G LTE) and i even play games on it and it rarely lags on me.
 GalaxyA15,"I have all these problems you mentioned, I'm almost dying of hate"
 GalaxyA15,I will see of this is gona happen to me by dailying my camra phone (the a15) and i will report back maybe
 GalaxyA15,The phone has a bug. Try restarting once a day until you can get the virus checked out. Install Norton 360 afterward. My advice is scrap the phone. Purchase an S24 plus mint condition for $600 on Ebay or Swappa. Proceed to do the former to a phone that's worth something.
+GalaxyA15,"just using the phone?
+
+i was trying to listen to spotify while using google maps and it was freezing up while doing it."
+GalaxyA15,"u have the 6gb ram version, i dont"
+GalaxyA15,mediaTek afaik
+GalaxyA15,hold up there's an exynos version?
+GalaxyA15,how often does it happen?
+GalaxyA15,"had better experiences with Android go version, because the optimize it for low-end devices. 
+
+it feels like Samsung built alone device and then crammed normal oneUI on to the device, which it runs quite poorly. 
+
+I can't imagine how obviously bad the Samsung A0X line is, those phones have only 2 gb ram"
+GalaxyA15,"im going to do a factory data reset this weekend, see if it helps"
+GalaxyA15,Not enough memory probably...
+GalaxyA15,That doesn't happen on me and mines the lowest config model (4gb 128gb LTE)
+GalaxyA15,4gb ram version is known for its slow & laggy experience due to the heavy one ui. I have 6gb version and it works well
+GalaxyA15,Maybe edit your post to say that
+GalaxyA15,"Sorry for the confusion. I thought it was the same as A16, which is basically the same as A15 with slight changes, one of which is that it comes in two processor versions depending on the region. As for the A15, it comes in a single version worldwide with MediaTek chip"
+GalaxyA15,I don't have the phone anymore because the screen broke and made it unusable but it only happened like two or three times when I first got it I think
+GalaxyA15,I have a feeling they will release ONE UI 7 CORE for A15
+GalaxyA15,"The a0x line has 4GB ram now, runs poorly still"
+GalaxyA15,"I've done this twice, including the first time in technical support."
+GalaxyA15,"it freezes up all the time tho, regardless of what I'm doing and there is no pattern or repeatability to it."
+GalaxyA15,I have the 4gb version and it rarely lags on me
+GalaxyA15,hi I have the 15 4g and I don't now why but I don't have the Always on display option the phone have in amoled display  do you now why
 GalaxyA15,Microphone problem
 GalaxyA15,Maybe mic holes are dirty? Try cleaning with a dry toothbrush
+GalaxyA15,"No, it's a brand new phone and like I explained, it only happens during calls on apps."
 GalaxyA15,Samsung Gallery Studio
 GalaxyA15,"I don't have this in my A15 as well but I have it in my A35. I think since A15 is considered a budget phone, the devs don't provide that studio thing for it? I have looked in Google but found nothing. But there goes my guess."
+GalaxyA15,NOOOO (i was going to get the A25 but last minute decided to get this A15 now i regret it as it wasnt much more expensive :(
+GalaxyA15,"Very unfortunate. Although you can use other apps like Capcut, Inshot for quick edits. Not the solution but a viable workaround."
+GalaxyA15,I feel like in my head I don't want to fill up.my storage with extra apps but it's probably the best solution
 GalaxyA15,What's the machine called that easily install screen protectors with no bubbles
 GalaxyA15,"There are tempered glass kits that come with plastic alignment guides that make installation a cinch. Just make sure you are in a clean area, especially if you have pets. Gonna be hard to not get bubbles.. if you look closely that bubble is actually a trapped piece of dander or airborne lint.
 
@@ -97,10 +181,14 @@ I had severe issues when I was at my girlfriend's house. She knits and had two d
 
 https://a.co/d/fbp2Uwd  <-- Amazon link to a kit for reference"
 GalaxyA15,Clean your phone well...Align the top lower the rest of the glass into the guide. It will self adhere almost perfectly.. press any bubbles out the sides using a bank or credit card wrapped in cleaning cloth
+GalaxyA15,ty!!!!!!!!!!!!!!!
+GalaxyA15,Absolutely not helpful
 GalaxyA15,Is this a bug?
 GalaxyA15,?
 GalaxyA15,"Are you saying the image moves or the screen moves?
 The screen shouldn't move."
+GalaxyA15,Image
+GalaxyA15,"Is this a defect or not, or is it a bit of factory accessibility?"
 GalaxyA15,[READ DESCRIPTION] Need help modding Galaxy A15 4G.
 GalaxyA15,Wireless external microphone compatibility
 GalaxyA15,Changing microphones?
@@ -111,6 +199,7 @@ GalaxyA15,When is one ui 7 releasing for A15 5G
 GalaxyA15,"Brother, if it's still in beta and the S24 ultra doesn't even have it, the less you expect it for an A15"
 GalaxyA15,"Probably in a few months, after the S series devices have gotten it, maybe April or May I would guess."
 GalaxyA15,Summer. Imo.
+GalaxyA15,Because of the release of s25 series
 GalaxyA15,Custom rom for a15
 GalaxyA15,How is that custom ROM?
 GalaxyA15,"can't remember if the A15s have a mediaTek SOC or a Snapdragon SOC
@@ -120,16 +209,43 @@ pretty sure that the a15s are running a Snapdragon SoC which is famous for not h
 most phones with mediatek SoC dont have ROM support because mediatek in general is not very custom ROM friendly"
 GalaxyA15,"The A15 4G has a metiatek chip, sadly no custom roms are available"
 GalaxyA15,Bro did you found any ? I also want to improve my a15 4g gaming performance
+GalaxyA15,"they're mediatek phones, both 4G and 5G"
+GalaxyA15,Isnt there a problem with unlocking the bootloader on Samsung phones because of Knox security?
+GalaxyA15,"look at the bright side, theres a gsi which is almost the same as a custom rom! [https://xdaforums.com/t/guide-how-to-install-evolution-x-gsi-on-samsung-galaxy-a15-4g-a155m-a155f-without-twrp-a-painless-guide-for-the-gods-of-android.4708402/#post-89947804](gsi)"
+GalaxyA15,"basically yes. 
+
+that's why you're not going to find any ROM support afaik."
 GalaxyA15,App closing
 GalaxyA15,Restart the phone and install Norton 360 or McAfree virus software. Your phone has a cold.
 GalaxyA15,This happens on my A10 every so often.
+GalaxyA15,I wouldn't recommend installing norton or McAfee.
+GalaxyA15,I think your a troll at this point
+GalaxyA15,Royally fuck mcafree they were on my laptop and would not stop annoying me with notifications to the point where I tried to get rid of them and they wouldn't even let me so I had avg shred it 😭😭
+GalaxyA15,What anti-virus would you recommend?
+GalaxyA15,And you're gaslighter. And a troll.
+GalaxyA15,Doesn't Samsung have device care with built in features for problems like that. Idk what a antivirus software would do for apps refusing to launch. It works differently on Android then windows.
+GalaxyA15,Lol sure
+GalaxyA15,Samsung device care is more for making sure the device is optimized and working properly. That things in the system aren't causing lag or premature battery failure.
+GalaxyA15,"It does, you don’t need what he is asking you to install"
 GalaxyA15,"My A15 began glitching where only videos such as IG tiktok etc and even when recording videos, it shows green. Anyone else had this problem? I have to switch off the phone and turn it back on to work again"
 GalaxyA15,I hope I don't have this problem on my future Galaxy A15
 GalaxyA15,Everyone On Earth Bought THIS Samsung Phone (A15 Full Review)
 GalaxyA15,Freezes screen
 GalaxyA15,"Install anti malware software like Norton 360 or McAfree.
 Pay for the premium service. The phone is a computer. And all computers need anti-virus software."
-GalaxyA15,Slow Charging 
+GalaxyA15,Those are the worst options available
+GalaxyA15,I agree. Especially for mobile. Who do you recommend and how much?
+GalaxyA15,Google play protect is usually enough
+GalaxyA15,"No lol. Google play protect doesn't scan all your phones files for malware and viruses like these two programs.
+They aren't the best but work much better for protection than simply scanning an app that you download."
+GalaxyA15,"The best bet is to not download apps accept from the play store, I've never ran an anti malware on my devices and been fine..."
+GalaxyA15,You're under 18 aren't you.
+GalaxyA15,"Nope, and if you do some research you will find out that anti malware on a phone is overkill"
+GalaxyA15,"I've had viruses on two different phones, even with Norton. The 2nd virus was on my current phone, and I installed Norton 360, and it was hitting all sorts of buttons, not allowing me to restart, etc. But after I kept running checks, whatever it was disappeared. So once you get a virus on your phone with no anti virus. You might reconsider."
+GalaxyA15,"Seems like you were visiting some shady website or something, I've been using smartphones since 2012 with 0 viruses"
+GalaxyA15,That's exactly what it was. A shady website. Except you don't know what website is shady. Norton will block that website when you click on it so you don't enter. Even safe websites can be hacked sometimes. You never know where that next virus might pop up.
+GalaxyA15,Just run ublock and no script on Firefox and you will be fine without a malware app
+GalaxyA15,Slow Charging
 GalaxyA15,"Purchase a 25w-45w charger at Walmart for $20. If it still doesn't fast charge, the phone is broken and should be retired."
 GalaxyA15,"Yup, the same happened to me when I just got the phone. I was using an old charger that I already had. I changed it to a 45W charger, and it started working normally again. 
 
@@ -146,11 +262,15 @@ Restart your phone regularly or at last resort buy a new one. Can get for under 
 I had wonky charging with a mind of its own. Maybe your phone is a bad batch in the android super AI(r)compute.
 My response is Subjective. Take it as is for you is as it's given."
 GalaxyA15,Bad cable ?
+GalaxyA15,I replaced the circuit of charging
 GalaxyA15,"12 megapixel and 50 megapixel mode, what's the initial difference?"
 GalaxyA15,U probably should use it in 12mp mode bcs that way ur sensor will combine its pixels to increase the light information and give you better results. But these are my assumptions so don't believe me completely.(and again using a lover mp mode should give your processor easier time to work on the picture itself)
 GalaxyA15,A15 camera criticism?
 GalaxyA15,Personally I don't take photos but there decent and such a cutie pie here but yeah bugjet camera does the job
 GalaxyA15,It's good for Face Value photos but if you want to zoom in and look at individual things in the pictures then you can clearly tell that it is a shitty camera but just looking normally it looks good
+GalaxyA15,"This is a normal photo taken on the 50mp main sensor, so.. what's your personal opinion on the photo?"
+GalaxyA15,It looks good but if you want to zoom into thr cats eyes or nose or something like that then it just looks pixleated
+GalaxyA15,"oh yeah, particularly I don't zoom. I really don't have much cases where it's needed. Although I actually can't remember whether I zoomed in for this photo or not cause there were a few different shots.. but usually I refuse to use the 12mp mode so most likely not."
 GalaxyA15,The hate on the A15?
 GalaxyA15,its a good phone
 GalaxyA15,"Yes, it's a budget phone, but probably the best budget phone out there.  Compared to the Moto g power it replaced it has better reception (I work from home and am rural) and far nicer cameras (wide and macro cameras).    
@@ -173,22 +293,42 @@ Any phone that holds up well, lets me access emails, send texts, access the Inte
 GalaxyA15,"well I'll be honest I had the A33 before this and it got stolen so I got this one but the camera colouring is whack and annoys me so much also IT DOESNT SUPPORT SCREEN RECORDING WTH and for some mystery reason it doesn't seem to support studio in the gallery app which I used all the time for editing videos smh
 
 at least it has a headphone jack tho"
+GalaxyA15,Honestly!
+GalaxyA15,"Personally, it's good for my expectations. I came from a Moto G Play (2021) that had a 12mp 1080p main sensor. So that's a huge definite upgrade."
+GalaxyA15,"https://preview.redd.it/hef2bqv7lxae1.jpeg?width=6120&format=pjpg&auto=webp&s=fbc204bcfbf5343f90efd4f70bc53eac75be975c
+
+This looks pretty good to me."
+GalaxyA15,"Weird,  I've had zero issues with it. Also, the battery thing might be because of a setting within device care called ""battery protection."" Make sure it's turned off unless you wanna choose one of the modes for it, then go ahead. Also, if your phone is running slowly, delete any app you don't use, including Samsung apps. Also, within device care, make sure that RAM plus is enabled and have it set to the highest ram size available for your model."
+GalaxyA15,The battery will last longer if you don't push it to the extremes. Best keep it between 20 and 80.
+GalaxyA15,I got the 4gb 128gb model I'm pretty sure.
+GalaxyA15,But honestly one thing I've done on every phone is clear out my app windows. I'll never keep more then one open.
+GalaxyA15,Exactly what I think.
+GalaxyA15,"I had a Moto G Play 2021 before this, so this phone seems like luxury to me honestly."
+GalaxyA15,"That's weird, I also have the 4gig ram model, I haven't ran into any issues so far. But I close out all my windows, delete apps that are able to be deleted that came on the phone (like Samsung apps and Google apps) and etc."
+GalaxyA15,"You deserve at minimum Full HD at 60fps. 60fps is so smooth. This phone is limited to 30fps and it cant use HDR when it's on Full HD video. You'll love 4k at 60fps. I pray in the future you can experience this with something you own. May I recommend Swappa for purchase of a lightly used Galaxy S23 phones that will be dropping $100-150 less than current price when the S25 comes out end of January. In those 30 days-90 days after, you could realistically get an S23 Ultra for $650 in excellent condition. This is what I plan on doing upgrading from the A15. Maybe even getting the S24 Ultra for 7 something. Time will tell."
+GalaxyA15,"That is a good photo. With the 4k screens, you'll notice that the background images have just as much detail and vibrance as the main photo. The flowers would be standing out and in focus, and the colors would pop a bit more off the screen. Good picture."
+GalaxyA15,The camera isn't as good as other phones but it will still take decent photos.
+GalaxyA15,It is weird cause I have a A03s model with 4gb ram and it can hold quite apps open but the A15 simply can't 😅
+GalaxyA15,"I got a A15 for Christmas, why? My Dad happened to be tight on Money buying gifts for everyone and he wanted to spend $100 max on everyone he knew. But I needed a new phone. I don't see myself upgrading from this phone for 4 years. So, I think I'll be stuck with this for some time. I got this phone coming from a Moto G Play 2021. Which is a massive upgrade. I'm only 14 which leaves me dependent on my Dad. And plus I don't do used phones. I'm very.. weird when it comes to that. If anything I own personally has a little crack or scratch it sets me off. I HATE having anything wore down. My Moto G Play 2021 had very minimal scratches and that was it even after 3 years. And I HATE using something that's already been opened by something. It's such a major ick."
+GalaxyA15,"If you are happy, that's all that matters with a purchase. Please allow me to recommend a waterproof, shockproof case for the phone that has served me well for 7 months. I've driven in the pouring rain on an electric scooter using it. I drop it regularly. No cracks. Not a scratch on the screen because it's a full case. Please enjoy. https://www.ebay.com/itm/255303183519?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=iVJOWpvKRi6&sssrc=4429486&ssuid=6aHomTnBTBm&var=&widget_ver=artemis&media=COPY"
 GalaxyA15,Anyone else's A15 poj phone call 911 in their pocket on the lock screen?
 GalaxyA15,"you can go in the lock screen settings and remove the button as an option.
 
 I was also having this problem."
-GalaxyA15,Samsung Wallet 
+GalaxyA15,Samsung Wallet
 GalaxyA15,Internet doesn't work anymore with the last update
 GalaxyA15,"For now I solved by selecting 3G/2G in the network settings. I think I will wait for another update, because 5G worked before this update."
 GalaxyA15,reset Network settings and reboot
 GalaxyA15,December patch?
+GalaxyA15,Just tried and it worked! Now I'm using 5G. Thank you so much!!
 GalaxyA15,Anyone else having A15 5G GPS tracking problems?
 GalaxyA15,"GPS on anything other than an iPhone I've used had accuracy problems. Specifically budget mediatek processors isn't known for its cellular, gps performance. I've used the A15 and it's about the same as every android phone I've used."
 GalaxyA15,Yeah me. Sometimes gps signal lost
+GalaxyA15,"That makes sense. Occasionally, I'd have a GPS inaccuracy on my S5, S7, and S9. It didn't happen often. But those were Samsungs flagship phones."
 GalaxyA15,A15 not charging past 88 percent
 GalaxyA15,vs A14
 GalaxyA15,"The a15 is definitely alot more snappy, you can play music and the phone will still be usable, better camera (0.5). Ts is my opinion having upgraded a week ago lwk on average it's jst as fast but it's alot better under load"
-GalaxyA15,A15 5G sometimes   runs   really   slowly 
+GalaxyA15,A15 5G sometimes   runs   really   slowly
 GalaxyA15,"I’m going to guess here. I only use my a15 as a backup phone so most of the time it sits idle.
 
 It’s probably the 4gb of memory just not enough these days."
@@ -198,6 +338,21 @@ GalaxyA15,"I use my A15 as a secondary bc my s20fe just has shit battery but the
 My old A12 back when I used it as a primary had the same problem"
 GalaxyA15,My a14 did this but my a15 dosent
 GalaxyA15,Turn off ram plus
+GalaxyA15,"yeah i wonder 
+
+my old xiaomi also had 4gb of ram but it never lagged like this...but it also was running android 10
+
+i set it to limit background processes to a max of 4"
+GalaxyA15,"yeah thats correct. 
+
+never did i expect 4gb of ram on an android to be ""low end"""
+GalaxyA15,What is the way to so that I am also getting the same problem as op but I am unsure how to do this
+GalaxyA15,You make homer Simpson feel smart...
+GalaxyA15,What is the procedure to do that as I am experiencing the same issue too
+GalaxyA15,https://preview.redd.it/u6qsp2zg098e1.png?width=1080&format=pjpg&auto=webp&s=3ea7cb784a1d5d6487b71d236b235e31825cc251
+GalaxyA15,"There's no other way buddy, we can't do nothing with 4 gb and One Ui"
+GalaxyA15,i turned off ram boost and limited background processes to 4
+GalaxyA15,How does turning off ram plus help?
 GalaxyA15,Question about AetherSX2/NetherSX2
 GalaxyA15,Duel SIMs?
 GalaxyA15,Check the documentation.
@@ -209,8 +364,8 @@ GalaxyA15,SamsungA15phone
 GalaxyA15,You should get the option to press forgot password then it should explain the steps afterwards
 GalaxyA15,"It's an option when you first make it, but you may be able to reset through your samsung account"
 GalaxyA15,TracFone A15 5G (S156v)--When unlocked will it work on T-Mobile?
-GalaxyA15,A15 Samsung galaxy a15 5g camera failed 
-GalaxyA15,A15 Samsung camera is disabled 
+GalaxyA15,A15 Samsung galaxy a15 5g camera failed
+GalaxyA15,A15 Samsung camera is disabled
 GalaxyA15,Have you tried turning it off and back on. The camera was always very laggy when I had things in the background like a fitness app (fitbit or tile) or even anything really. The phone plays Roblox better than my pixel 7a but really struggles using the camera.
 GalaxyA15,What happened
 GalaxyA15,"Of course you didn't break it, breaks doesn't appear in screenshots🤦‍♂️"
@@ -222,19 +377,25 @@ Anyway, a friend of mine has this problem where she cannot receive text messages
 
 Since I have no clue about Android phones, I‘m struggling to find an answer for this problem.
 I hope someone can help, thanks in advance!"
-GalaxyA15,phone keeps multiple instances of an facebook open. 
+GalaxyA15,Use Google Messages.  Samsung Messages is supposed to be deprecated anyway.
+GalaxyA15,phone keeps multiple instances of an facebook open.
 GalaxyA15,Screenshots
 GalaxyA15,"I figured it out. It IS volume down+power, but you just press and release, not hold."
 GalaxyA15,https://preview.redd.it/wiohptsd3jtd1.png?width=1080&format=pjpg&auto=webp&s=c05559339a07f8186feaf83034dd7fd15775dd08
 GalaxyA15,Settings display touch sensitivity. Turn on to increase it with a Screensaver.
-GalaxyA15,"
-*
+GalaxyA15,"*
 In the settings you can display the screenshot button here."
 GalaxyA15,"you don't have a take screenshot button in quick access?   
 if not hit the pencil icon and see if its hidden or not 
 
 https://preview.redd.it/jrdoa9xqd7be1.png?width=1080&format=png&auto=webp&s=da5d227ce93ef8351aef8d2762b12c08e081a5fd"
 GalaxyA15,I have this same problem only on WhatsApp
+GalaxyA15,"Thanks, but didn't work unfortunately."
+GalaxyA15,"That did it, thank you! Had no idea."
+GalaxyA15,"Turns out there's a screenshot button in my toolbar. So I've been using that for most screenshots. I can use the power & volume down if I need to, but it's not a smooth operation. Most of the time the volume bar photobombs those screenshots. Palm swipe doesn't work at all."
+GalaxyA15,I'm using a chinese knockoff otterbox defender with the built in screensaver. Swipe works for me.
+GalaxyA15,I get stressed about this
+GalaxyA15,I don't care for the phone much tbh. I think this is my last Galaxy.
 GalaxyA15,Wake up screen when receiving a WhatsApp message?
 GalaxyA15,Glimpse
 GalaxyA15,Tabs closing
@@ -249,29 +410,57 @@ GalaxyA15,"Hi there, well I have the 6gb ram/128 gb version (4g) and it works we
 GalaxyA15,"I had gotten the a15 5g with 4g ram and it's pretty slow. When diving from app to app, it lags. Open spotify, lags. Select playlist and then change mind and search artist, device lags. I blame it on the phone itself being several models behind. Not sure if thats the cause thoooo"
 GalaxyA15,"as a A15 4/128 user, id get the A15 8/256gb"
 GalaxyA15,"Depends on your network.   If t-mobile 5G is often better so I'd get that version.  AT&T or Verizon, I'd just get 4G until they can get their networks up to speed.  And even that could change based on where you live."
-GalaxyA15,Chrome pops up in small window automatically 
+GalaxyA15,"thank you so much for the reply, i think i will do that, there is only 15 buck difference so i have the budget"
+GalaxyA15,"This is the only comment he should consider. There's really only one 5G carrier that is on the table, so it's definitely about who you go with. Verizon has a great 4G network also. I'd go with T-Mobile. My mom lives in a rual town. Inside, I've got 741mbps down. To not go with them would be from an economic standpoint as it is pricey. Straight Talk offers a free A15 5G for a silver service charge. $52 total. Phone and service. I mean, are there options after that?"
+GalaxyA15,Chrome pops up in small window automatically
 GalaxyA15,Playing an intensive game for a while causes cell service to stop working.
 GalaxyA15,"How do you get Roblox to even run on it? I got one of these phones for my daughter, because I saw videos of the phone running roblox. But it keeps bugging out on her phone."
+GalaxyA15,"Graphics all the way down and close other tabs, runs jailbreak okayish"
 GalaxyA15,Does a15 have screen recording built in
 GalaxyA15,"This isn’t a “ridiculous” question. No, the A15 (4G and 5G) do NOT have screen recording built in. For screen recording, you need a 3rd party app."
 GalaxyA15,[removed]
 GalaxyA15,"If it's not in the control panel, you don't have that feature."
+GalaxyA15,Thanks for the tip
 GalaxyA15,U dont have circle to search right?
 GalaxyA15,"Nope, all A series devices don’t have circle to search or any AI features. Only S21 and above have it."
 GalaxyA15,"Try a GitHub project called MiCTS. It will work if you are lucky! (I have an a15 too and I use it every day)
 FYI: it will be laggy and runs on 60hz Whatever you do
 PROJECT: https://github.com/parallelcc/MiCTS/blob/main/README_en.md
 RELEASES: https://github.com/parallelcc/MiCTS/releases"
+GalaxyA15,Heard romers about a55 and a35 getting it in future maybe a15 can get it too
+GalaxyA15,My A55 has it
+GalaxyA15,"Nvm we might, but to be fair, the probability of getting it would probably be ""somewhat likely"" because were at the bottom of the A series."
+GalaxyA15,My A54 got it 3 days ago.
+GalaxyA15,"It's not a ai feature after all(just a google lens shortcut), so im assuming samsung gonna spread this feature across all relatively new midrange lowend phones"
+GalaxyA15,"True. I can keep track of the updates for you if you want me to. As of right now, I'm updating the July 2024 security patch update on my A15 5G."
+GalaxyA15,Nope we won’t. AI NPU for A15 4G and A15 5G isn’t powerful enough for Circle to Search
+GalaxyA15,"Girl, it's just a fancy google lens. If you have google lens, you should have this feature too"
+GalaxyA15,it’s actually better than Google Lens and more accurate 🤣
+GalaxyA15,"Yeah, it looks that way but just slightly"
 GalaxyA15,do you recommend me buying the thing?
 GalaxyA15,yes
 GalaxyA15,"It's a decent phone, especially for the price. Also, depends on what you're doing. This is perfect for general use. If you plan on photos and videos be aware it doesn't have image stabilization. Videos are going to look shaky if you have a shaky hand (especially with zoomed). It doesn't get super hot if playing a heavy game."
 GalaxyA15,Did you get it?
 GalaxyA15,Quite happy with the unlocked version from staples who price matched wallymart. I replaced my S8 which had a dying battery. Would get 8g ram if that option was available if doing it again. That version showed up 2w after I bought this one.
+GalaxyA15,"okay, I will. How much ram do you have?"
+GalaxyA15,Perfect! I'll definitely buy it when I can...
+GalaxyA15,yes! I am really happily using it.
+GalaxyA15,4gb
+GalaxyA15,"Awesome. I've been happy with it for the past 3-4 months. Next week, I'll be moving on to the Pixel 9 pro"
+GalaxyA15,"Wonderful! I also have 4 GBs and have used 2.6, and got a reserved 512 MB, I bought the phone earlier this year, In February, and Im having problems of it, getting slower at some point and then if I restart the phone it goes back to normal, Idk if this has to do with mine or all of the A15s.
+
+It is a great phone, though."
 GalaxyA15,Blurry MMS
 GalaxyA15,"just bought a A15, its great"
 GalaxyA15,"Agreed, phone is awesome. Ive spent the last 4 days getting acclimated.  I`m looming for any tips or tricks of the trade, this is my foist android phone"
 GalaxyA15,I'm thinking about either this one or a moto power or a google pixel for my next phone. Moto doesn't get glowing reviews and the Pixels are pricey so this might be the one. The only thing I don't really like is the Samsung ecosystem/apps overlap with general android. I have the A51 5G currently which has been a good phone but has reached the end of its support/upgrade life.
 GalaxyA15,I just bought it yesterday and it's 1000% better than my old iPhone 13 mini
+GalaxyA15,"I would keep your A51 as I have the s8 A12/A15 and an s20fe and the A51 would provide no upgrades in terms of day to day usage 
+
+I think you should save your money and get a Google pixel 7a as that would be better value for money with 7 years of security updates instead of just 4"
+GalaxyA15,"Wait no hate but I'm genuinely confused how this phone is better than an iPhone 13 mini because isn't that phone a flagship. 
+
+My Samsung s20fe can destroy the A15 in every aspect and its 5 years old sub-flagship device surely the iPhone would perform better?"
 GalaxyA15,How do I get rid of this symbol?
 GalaxyA15,"Hold auto rotate button on quick panel and turn this off
 
@@ -282,6 +471,14 @@ GalaxyA15,Anybody know when the A156U1 (U1/DS) will get One UI 6.1?
 GalaxyA15,Y’all ain’t getting it for a while since the U1/DS variants get it the very last
 GalaxyA15,Oh 🥲
 GalaxyA15,What's the One UI 6.1 for?
+GalaxyA15,"Nvm I got the update
+
+https://preview.redd.it/vtmk3q7y0z1d1.jpeg?width=1080&format=pjpg&auto=webp&s=ed65fff8e4075ac6c3598d924ad5150692c2b19f"
+GalaxyA15,Nevermind. I googled it lol
+GalaxyA15,Nice XXA unlocked?
+GalaxyA15,Yup XAA (TMK)
+GalaxyA15,lucky that u got it early usually U1 models are very last at getting them
 GalaxyA15,"Surprise, Surprise! Galaxy A15 5G gets One UI 6.1 update!"
 GalaxyA15,The 4G version I have just got the update to!
 GalaxyA15,When fir the U1 model
+GalaxyA15,soon
